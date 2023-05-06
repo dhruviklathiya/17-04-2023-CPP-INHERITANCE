@@ -62,9 +62,9 @@ int main () {
 //         int d = a + b + c;
 //         int e = d * d * d;
 //         int f = (a*a*a) + (b*b*b) + (c*c*c);
-//         cout<<"Sum of all three number is: "<<d<<endl;
-//         cout<<"Sum of all three number’s cubes is: "<<e<<endl;
-//         cout<<"All three numbers cube's sum is: "<<f<<endl;
+//         cout<<"All three number sum: "<<d<<endl;
+//         cout<<"All three numbers sum's cubes is: "<<e<<endl;
+//         cout<<"All three number cube's sum is: "<<f<<endl;
 //     }
 // };
 // int main () {
